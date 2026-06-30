@@ -1,0 +1,11 @@
+[package]
+name = "unknown"
+description = "unknown"
+version = "0.0.1"
+authors = ["unknown"]
+
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+
+[dependencies]
