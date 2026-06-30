@@ -78,6 +78,11 @@ local initial do
 	print('==== Wally Package CLI Setup ====')
 
 	print('')
+	local confirm = waitForInput('Proceed? (y/n) > ', '')
+	if confirm[2] ~= 'y' then
+		return
+	end
+
     -- warn me about wally.toml
     if not hasWallyConfig then
 		print('wally.toml not found')
