@@ -2,3 +2,7 @@
 *.rbxm
 *.rbxl
 *.rbxlx
+
+# one-time use personal tools
+# not worth publishing
+InitCLI.lua
