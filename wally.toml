@@ -1,8 +1,8 @@
 [package]
-name = "unknown"
-description = "unknown"
-version = "0.0.1"
-authors = ["unknown"]
+name = "Mug"
+description = "My collection of generic runtime utilities"
+version = "1.0.0"
+authors = ["meowtsun"]
 
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
